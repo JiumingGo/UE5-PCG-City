@@ -1,0 +1,50 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# --- JetBrains Rider / IntelliJ ---
+.idea/
+*.sln.iml
+*.DotSettings.user
+*.DotSettings
+*.user
+*.userosscache
+*.suo
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Rider-specific Unreal stuff
+.idea/**/contentModel.xml
+
+# Plugin-specific
+.idea_modules/
+
+# Caches
+*.cache
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore autosaves & temp maps
+Saved/Autosaves/
+
+# Ignore build files
+*.sln
+*.opensdf
+*.sdf
+
+# Ignore plugin binaries (IMPORTANT)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
