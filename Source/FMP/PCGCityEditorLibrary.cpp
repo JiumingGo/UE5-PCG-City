@@ -119,6 +119,6 @@ bool UPCGCityEditorLibrary::IsEditorViewportLeftMouseDown()
 
 	return ActiveViewport->KeyState(EKeys::LeftMouseButton);
 #else
-	return deferred_false<>;
+	return false;
 #endif
 }

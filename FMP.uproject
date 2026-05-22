@@ -48,6 +48,10 @@
 		{
 			"Name": "PCGExtendedToolkit",
 			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
 		}
 	]
 }
