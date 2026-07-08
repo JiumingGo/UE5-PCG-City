@@ -19,15 +19,15 @@ I designed and developed the procedural workflow, focusing on tool usability and
 My work included:
 
 * Building road and plot generation systems
-* Creating Blueprint-based tool logic
-* Using Unreal PCG for procedural placement
+* Integrating Houdini-generated intersection assets into the workflow
+* Using PCG / PCGEx for procedural building and prop placement
 * Testing and debugging generation issues
 * Designing the workflow for artists and level designers
 
 ## Technologies Used
 
 * Unreal Engine 5
-* PCG
+* PCG / PCGEx
 * Blueprints
 * Houdini Engine
 * Splines
