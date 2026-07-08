@@ -7,8 +7,8 @@ The project explores how procedural tools can help artists and level designers c
 ## Features
 
 * Spline-based road generation
-* Procedural plot creation
-* PCG-based environment population
+* Houdini-generated road intersections
+* PCG / PCGEx-based building and prop placement
 * Editable workflow inside Unreal Engine
 * Rapid city blockout and iteration
 
@@ -29,10 +29,9 @@ My work included:
 * Unreal Engine 5
 * PCG
 * Blueprints
-* Geometry Script
+* Houdini Engine
 * Splines
 * Git / GitHub
 
 ## Screenshots
-
-
+![City Generator](CityGenerator.PNG)
