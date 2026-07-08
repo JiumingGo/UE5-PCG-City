@@ -1,0 +1,38 @@
+# UE5 PCG City Generation Tool
+
+A procedural city generation tool built in Unreal Engine 5 using PCG, Blueprints, splines, and editor-based workflows.
+
+The project explores how procedural tools can help artists and level designers create road layouts, building plots, and urban environments more quickly inside Unreal Engine.
+
+## Features
+
+* Spline-based road generation
+* Procedural plot creation
+* PCG-based environment population
+* Editable workflow inside Unreal Engine
+* Rapid city blockout and iteration
+
+## My Contribution
+
+I designed and developed the procedural workflow, focusing on tool usability and environment generation.
+
+My work included:
+
+* Building road and plot generation systems
+* Creating Blueprint-based tool logic
+* Using Unreal PCG for procedural placement
+* Testing and debugging generation issues
+* Designing the workflow for artists and level designers
+
+## Technologies Used
+
+* Unreal Engine 5
+* PCG
+* Blueprints
+* Geometry Script
+* Splines
+* Git / GitHub
+
+## Screenshots
+
+
